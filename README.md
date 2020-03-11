@@ -23,3 +23,5 @@ Recursive Computer Paper
   
 ### X-Tree: A tree structured multi-processor computer architecture (1978)
  - https://dl.acm.org/doi/10.1145/800094.803041
+ 
+ ### Recursive Machines And Computing Technology
