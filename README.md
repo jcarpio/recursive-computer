@@ -21,3 +21,5 @@ Recursive Computer Paper
 ### Computations on a Tree of Processors (1979) 
 - http://caltechconf.library.caltech.edu/205/
   
+### X-Tree: A tree structured multi-processor computer architecture (1978)
+ - https://dl.acm.org/doi/10.1145/800094.803041
