@@ -1,0 +1,43 @@
+A recursive computer architecture for VLSI
+Share on
+
+    Authors:
+    Philip C Treleave,
+    Richard P Hopkins P. Hopkins
+
+Publication: ACM SIGARCH Computer Architecture NewsApril 1982 
+
+https://doi.org/10.1145/1067649.801731
+
+References
+
+1.Anon: "Proc. Int. Conf. on Fifth-Generation Computers", Japan Information Processing Development Center, (October 1981).Google Scholar
+2.Arvind et al: "A Processing Element for a Large Multiple Processor Dataflow Machine", Proc. Int. Conf. on Circuits and Computers, (October 1980).Google Scholar
+3.Backus J.: "Can Programming be Liberated from the von Neumann Style? A Functional Style and Its Algebra of Programs", Communications of the ACM, vol. 21, no. 8, (August 1978) pp. 613-641. Google ScholarDigital Library
+4.Barton R.M.: UK Patent Specification 1 503 321-325.Google Scholar
+5.Berkling K.: "Reduction Languages for Reduction Machines". Proc. Second Int. Symp. on Computer Architecture, (1975) pp. 133-140. Google ScholarDigital Library
+6.Browning S.A. and Seitz C.L.: "Communication in a Tree Machine", Proc. Caltech Conf. on VLSI, (January 1981).Google Scholar
+7.Davis A. L.: "The Architecture and System Method of DDM1: A Recursively Structured Data Driven Machine", Proc. Fifth Int. Symp. on Computer Architecture, (April 1978) pp. 210-215. Google ScholarDigital Library
+8.Dennis J. B.: "The Varieties of Data Flow Computers", Proc. First Int. Conf. on Distributed Computing Systems, (October 1979) pp. 430-439.Google Scholar
+9.Despain A.M. and Patterson D.A.: "X-TREE: A Tree Structured Multiprocessor Computer Architecture", Proc. Fifth Int. Symp. on Computer Architecture, (April 1978) pp. 144-151. Google ScholarDigital Library
+10.Farrell E.P. et al: "A Concurrent Computer Architecture and a Ring-based Implementation". Proc. Sixth Int. Symp. on Computer Architecture, (April 1980) pp. 1-11. Google ScholarDigital Library
+11.Foster M.J. and Kung H.T.: "The Design of Special-Purpose VLSI Chips", IEEE Computer Magazine, (January 1980) pp. 26-40.Google ScholarDigital Library
+12.Glushkov V.M. et al: "Recursive Machines and Computing Technology", Proc. of the IFIP Congress, (1974), pp. 65-70.Google Scholar
+13.Hopkins R.P. et al: "A Computer Supporting Data Flow, Control Flow and Updateable Memory", Computing Laboratory, The University of Newcastle upon Tyne, Technical Report 144, (1979).Google Scholar
+14.Ingalls D.: "The Smalltalk-76 Programming System Design and Implementation", Proc. of the SIGPLAN Conference on Principles of Programming Languages, (1978) pp. 9-15. Google ScholarDigital Library
+15.Johnson R.C.: "32-bit Microprocessors inherit mainframe features", Electronics, (February 1981) pp. 138-141.Google Scholar
+16.Keller R. M., et al: "A Loosely-coupled Applicative Multi-processing System", Proc. Nat.Comp. Conf., (1978) pp. 861-870.Google Scholar
+17.Mago G. A.: "A Network of R Microprocessors to Execute Reduction Languages", Int. Journ. of Computer and Information Sciences, vol. 8, no. 5 and vol. 8, no. 6, (1979).Google ScholarCross Ref
+18.Mead C.A. and Conway L.: "Introduction to VLSI Systems", Addison-Wesley, (1980). Google ScholarDigital Library
+19.Rivest R.L.: "A Description of a Single-Chip Implementation of the RSA Cipher", LAMBDA Magazine, vol. 4, (1980) pp. 14-18.Google Scholar
+20.Seitz C.L.: "Proc. of the Caltech Conference on Very Large Scale Integration", (January 1979).Google Scholar
+21.Simon H.: "The Architecture of Complexity", Proc. of the American Philosophical Society, vol. 1.Google Scholar
+22.Sussman G.J. et al: "Scheme-79 - Lisp on a Chip", IEEE Computer Magazine, (July 1981) pp. 10-21.Google ScholarDigital Library
+23.Syre J. C. et al: "Pipelining, Parallelism and Asynchronism in the LAU System", Proc. 1977 Int. Conf. on Parallel Processing, (August 1977) pp. 87-92.Google Scholar
+24.Treleaven P.C.: "Principal Components of a Data Flow Computer", Proc. 1978 Euromicro Symp., (October 1978) pp. 366-374.Google Scholar
+25.Treleaven P.C. and Mole G.F.: "A Multi-Processor Reduction Machine for User-Defined Reduction Languages", Proc. Seventh Int. Symp. on Computer Architecture, (April 1980) pp. 121-129. Google ScholarDigital Library
+26.Treleaven P.C. (ed.): "VLSI: Machine Architecture and Very High Level Languages". Proc. of the joint UK SRC/University of Newcastle upon Tyne Workshop, Computing Laboratory, University of Newcastle upon Tyne, Technical Report 156, December 1980 (summary in SIGARCH vol. 8, no. 5 December 1980). Google ScholarDigital Library
+27.Treleaven P.C. and Hopkins R.P.: "Decentralised Computation", Proc. Eighth Int. Symp. on Computer Architecture, (April 1981) pp. 279-290. Google ScholarDigital Library
+28.Treleaven P.C. et al: "Data Driven and Demand Driven Computer Architecture", ACM Computing Surveys, vol. 14 no. 1, (March 1982). Google ScholarDigital Library
+29.Treleaven P.C. "VLSI Processor Architectures", IEEE Computer Magazine (to be published). Google ScholarDigital Library
+30.Wilner W.T.: "Recursive Machine", Xerox Corporation's Palo Alto Research Centre, Internal Report, (1980).
