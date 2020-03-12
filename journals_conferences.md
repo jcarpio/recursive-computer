@@ -2,8 +2,10 @@
 
 ## Theory and Practice of Logic Programming (Camdbridge University Press)
   - https://www.cambridge.org/core/journals/theory-and-practice-of-logic-programming
-    Call for Papers TPLP 20th Anniversary Issue
-The target deadlines are:
+    
+Call for Papers TPLP 20th Anniversary Issue
+
+ The target deadlines are:
  November 30, 2019: the two-page paper proposals due
  January 31, 2020: invitations to submit papers sent to the authors of the selected proposals
  May 31, 2020: full papers due
@@ -17,7 +19,6 @@ The target deadlines are:
   - https://iclp2020.unical.it/home
   
   Important Dates
-
         Abstract registration (regular papers): May 8, 2020
         Paper submission (regular paper): May 15, 2020 (submission details)
         Notification to authors (regular paper): June 19, 2020
