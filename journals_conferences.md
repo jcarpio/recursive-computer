@@ -14,8 +14,14 @@ Call for Papers TPLP 20th Anniversary Issue
     April 30, 2021: final versions of papers submitted
     June 30, 2021: the publication of the combined (1-3) issue of TPLP
 
-## The Journal of Logic Programming (Sciencedirect)
-   - https://www.sciencedirect.com/journal/the-journal-of-logic-programming
+## Journal of Logical and Algebraic Methods in Programming (ScienceDirect)
+    - https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming
+
+    (Previously) The Journal of Logic and Algebraic Programming (Latest issue January 2014)
+       - https://www.sciencedirect.com/journal/the-journal-of-logic-and-algebraic-programming
+       
+    (Previously) The Journal of Logic Programming (Latest issue November–December 2000)
+       - https://www.sciencedirect.com/journal/the-journal-of-logic-programming
 
 # Logic Programming Conferences
 
