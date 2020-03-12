@@ -22,7 +22,7 @@ Call for Papers TPLP 20th Anniversary Issue
   Important Dates
   
         Abstract registration (regular papers): May 8, 2020
-        Paper submission (regular paper): May 15, 2020 (submission details)
+        Paper submission (regular paper): May 15, 2020
         Notification to authors (regular paper): June 19, 2020
         Paper Submission (short papers): June 30, 2020
         Revision submission (TPLP papers): July 6, 2020
