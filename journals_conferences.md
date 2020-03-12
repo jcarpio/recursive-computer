@@ -14,6 +14,9 @@ Call for Papers TPLP 20th Anniversary Issue
     April 30, 2021: final versions of papers submitted
     June 30, 2021: the publication of the combined (1-3) issue of TPLP
 
+## The Journal of Logic Programming (Sciencedirect)
+   - https://www.sciencedirect.com/journal/the-journal-of-logic-programming
+
 # Logic Programming Conferences
 
 ## The 36th International Conference on Logic Programming
