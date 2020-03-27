@@ -25,3 +25,6 @@ Recursive Computer Paper
  - https://dl.acm.org/doi/10.1145/800094.803041
  
  ### Recursive Machines And Computing Technology
+ 
+A Hitchhiker’s Guide to Reinventing a PrologMachine, Paul Tarau, ICLP, 2017 
+- https://drops.dagstuhl.de/opus/volltexte/2018/8453/pdf/OASIcs-ICLP-2017-10.pdf
